@@ -1,6 +1,12 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3c00&height=120&section=header&text=Food%20Ordering%20App&fontSize=30&fontColor=ffffff"/>
+</p>
+
+---
 # 🍔 Burger King Clone React Native  
 
 <p align="center">
@@ -16,15 +22,6 @@
   <i>Simple • Fast • Interactive • User-Friendly</i>
 </p>
 
----
-
-## 🎨 Gradient Header
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3c00&height=120&section=header&text=Food%20Ordering%20App&fontSize=30&fontColor=ffffff"/>
-</p>
-
----
 
 ## 🚀 Features  
 
@@ -100,8 +97,6 @@ src/
 </p>
 
 ---
-
-## 🎯 Bottom Header
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff2d00&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
