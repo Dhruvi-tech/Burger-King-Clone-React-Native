@@ -1,6 +1,6 @@
 /**
  * EmptyCart renders a friendly empty-cart screen with a CTA button.
- * It uses theme values for consistent spacing, typography, and colors.
+ * It uses theme values for consistent spacing, typography, and colors..
  */
 import React, { useMemo } from 'react';
 import { View, Text, StyleSheet } from 'react-native';

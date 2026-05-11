@@ -1,6 +1,6 @@
 /**
  * CheckoutScreen collects delivery and payment details and places an order.
- * It validates user inputs and displays toast feedback before navigation.
+ * It validates user inputs and displays toast feedback before navigation..
  */
 import React, { useContext, useMemo, useState } from 'react';
 import { View, Text, TextInput, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';

@@ -1,6 +1,6 @@
 /**
  * Toast displays a temporary message overlay and automatically hides after a timeout.
- * This component is used across promo input and checkout screens for inline feedback.
+ * This component is used across promo input and checkout screens for inline feedback..
  */
 import React, { useEffect, useMemo } from 'react';
 import { Text, StyleSheet, View } from 'react-native';

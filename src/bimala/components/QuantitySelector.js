@@ -1,6 +1,6 @@
 /**
  * QuantitySelector renders an inline quantity control with plus/minus buttons.
- * It is used in cart items to increase or decrease item quantities.
+ * It is used in cart items to increase or decrease item quantities..
  */
 import React, { useMemo } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';

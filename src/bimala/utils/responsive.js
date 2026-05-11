@@ -1,6 +1,6 @@
 /**
  * responsive.js provides helpers to scale UI values across screen sizes.
- * Use scale, verticalScale, and moderateScale for responsive spacing and sizing.
+ * Use scale, verticalScale, and moderateScale for responsive spacing and sizing..
  */
 import { Dimensions, Platform } from 'react-native';
 
