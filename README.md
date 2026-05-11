@@ -314,11 +314,21 @@ npx react-native run-ios
 </div>
 
 ---
+## 👥 Contributions
 
+| Team Member | Contribution |
+|:---|:---|
+| 🟠 **Dhruvi** | UI design, navigation, animations, reusable components & theme system |
+| 🟡 **Archana** | Profile screens, addresses, order history & user-related modules |
+| 🔴 **Bimala** | Cart system, checkout flow, pricing logic & order confirmation |
+
+<div align="center
 <div align="center">
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44b00,50:ff6a00,100:ffb300&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff8f0&animation=fadeIn&fontAlignY=65&desc=Happy%20Coding%20🍔&descSize=14&descColor=ffd199&descAlignY=82"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0800,50:c44b00,100:ff8c00&height=3"/>
 
 ### 🍔 Crafted with React Native & ☕️ — for learning, scale & premium UX  
 
