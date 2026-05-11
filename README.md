@@ -1,25 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0800,50:c44b00,100:ff8c00&height=220&section=header&text=🍔%20Burger%20King%20Clone&fontSize=46&fontColor=fff8f0&animation=fadeIn&fontAlignY=50&desc=A%20Premium%20React%20Native%20Food%20Ordering%20Experience&descSize=16&descAlignY=72&descColor=ffd199&stroke=ff6a00&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0800,50:c44b00,100:ff8c00&height=220&section=header&text=🍔%20Burger%20King%20Clone&fontSize=55&fontAlignY=55&fontColor=fff8f0&animation=fadeIn&desc=A%20Premium%20React%20Native%20Food%20Ordering%20App&descSize=19&descAlignY=80&descColor=ffd199&stroke=ff6a00&strokeWidth=2"/>
 
-<br/>
-
-<p align="center">
-  <img width="180" src="https://capsule-render.vercel.app/api?type=rect&color=0:c44b00,100:ff8c00&height=2"/>
+<p align="center" style="margin-top:-30px;">
+  <img width="200" src="https://capsule-render.vercel.app/api?type=rect&color=0:c44b00,100:ff8c00&height=2"/>
 </p>
 
-<br/>
+</div>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
-<br/>
-
-<p>
+  <br/>
   <img src="https://img.shields.io/badge/Production%20Grade-FF6B00?style=flat-square&labelColor=1a0800"/>
   <img src="https://img.shields.io/badge/Scalable-FF6B00?style=flat-square&labelColor=1a0800"/>
   <img src="https://img.shields.io/badge/Gesture%20Driven-FF6B00?style=flat-square&labelColor=1a0800"/>
@@ -27,196 +21,151 @@
   <img src="https://img.shields.io/badge/Responsive-FF6B00?style=flat-square&labelColor=1a0800"/>
 </p>
 
-<br/><br/>
+---
 
-### ✨ *"Designed to feel smooth, immersive & effortlessly modern."*
-
-<p>Immersive UI &nbsp;•&nbsp; Fluid Animations &nbsp;•&nbsp; Premium UX &nbsp;•&nbsp; Scalable Architecture</p>
-
-<br/>
+<div align="center" width="100%">
+  
+### ✨ <i>“Designed to be smooth, immersive & effortlessly modern.”</i>
+*Immersive UI • Fluid Animations • Premium UX • Modular Architecture*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-<br/><br/>
+---
 
 ## 🍔 Signature Experience
 
 <div align="center">
+<p>
+From <b>browsing meals</b> to <b>placing orders</b>,  
+every interaction feels <b>fast, fluid and visually immersive.</b>
+</p>
 
-*From browsing meals to placing orders,*
-*every interaction is designed to feel fast,*
-*smooth, and visually immersive.*
-
-<br/>
-
-`🍔 Burgers` &nbsp;•&nbsp; `🍟 Fries` &nbsp;•&nbsp; `🥤 Drinks` &nbsp;•&nbsp; `🌮 Wraps` &nbsp;•&nbsp; `🍕 Combos`
-
+<span>
+<code>🍔 Burgers</code> • <code>🍟 Fries</code> • <code>🥤 Drinks</code> • <code>🌮 Wraps</code> • <code>🍕 Combos</code>
+</span>
 </div>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-<br/><br/>
+---
 
 ## 🎯 Built For
 
 <div align="center">
 
-⚡&nbsp; Smooth interactions &nbsp;&nbsp;
-🎨&nbsp; Modern visual system &nbsp;&nbsp;
-📱&nbsp; Cross-platform experience &nbsp;&nbsp;
-🧠&nbsp; Clean scalable architecture &nbsp;&nbsp;
-🚀&nbsp; Optimized performance
+⚡&nbsp; Silky interactions &nbsp;•&nbsp;
+🎨&nbsp; Modern visuals &nbsp;•&nbsp;
+📱&nbsp; True cross-platform &nbsp;•&nbsp;
+🧠&nbsp; Scalable code &nbsp;•&nbsp;
+🚀&nbsp; Blazing performance
 
 </div>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
+---
 
 ## 🌊 App Journey
 
 <div align="center">
 
+<table>
+<tr>
+  <td align="center">🏠 Home</td>
+  <td align="center">📜 Menu</td>
+  <td align="center">🛒 Cart</td>
+  <td align="center">💳 Checkout</td>
+  <td align="center">📦 Orders</td>
+</tr>
+<tr>
+  <td>Browse deals & banners</td>
+  <td>Filter · Search items</td>
+  <td>Manage qty · Promos</td>
+  <td>Address · Payment</td>
+  <td>View history · Status</td>
+</tr>
+</table>
+</div>
 
-
-<br/>
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| **🏠** | **📜** | **🛒** | **💳** | **📦** |
-| ![](https://img.shields.io/badge/STEP_1-Home-ff6a00?style=for-the-badge&labelColor=1a0800) | ![](https://img.shields.io/badge/STEP_2-Menu-ff8c00?style=for-the-badge&labelColor=2d0e00) | ![](https://img.shields.io/badge/STEP_3-Cart-ffb300?style=for-the-badge&labelColor=3d1200&color=c44b00) | ![](https://img.shields.io/badge/STEP_4-Checkout-ff6a00?style=for-the-badge&labelColor=1a0800) | ![](https://img.shields.io/badge/STEP_5-Orders-ff8c00?style=for-the-badge&labelColor=2d0e00) |
-| Browse deals & featured banners | Filter by category · Search items | Manage qty · Apply promos | Address · Payment · Summary | View history · Status · Timestamps |
-
-<br/>
+---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-<br/>
 
 # ✨ Seamless Ordering Flow
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="160">
 
-## 🏠
-### Explore
-
+## 🏠  
+#### Explore
 Browse trending meals,  
-combos & exclusive offers
+combos & offers
 
 </td>
+<td align="center" width="50"><b>➜</b></td>
+<td align="center" width="160">
 
-<td align="center" width="80">
-
-# ➜
-
-</td>
-
-<td align="center" width="180">
-
-## 🍔
-### Select
-
+## 🍔  
+#### Select
 Choose favorites with  
-smooth interactions
+smooth UI
 
 </td>
+<td align="center" width="50"><b>➜</b></td>
+<td align="center" width="160">
 
-<td align="center" width="80">
-
-# ➜
-
-</td>
-
-<td align="center" width="180">
-
-## 💳
-### Checkout
-
-Fast secure ordering  
-with elegant UI flow
+## 💳  
+#### Checkout
+Fast, secure ordering
 
 </td>
+<td align="center" width="50"><b>➜</b></td>
+<td align="center" width="160">
 
-<td align="center" width="80">
-
-# ➜
-
-</td>
-
-<td align="center" width="180">
-
-## 🚀
-### Delivered
-
-Instant order confirmation  
-& immersive experience
+## 🚀  
+#### Delivered
+Instant confirmation  
+immersive experience
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
 </div>
 
-<br/><br/>
-## ✨ Experience
+---
+
+## ✨ Core Features
 
 <div align="center">
 
-|  | Feature | What it does |
-|:---:|:---|:---|
-| 🏠 | **Home Screen** | Dynamic greeting · Featured deals · Dine-in / Delivery / Takeaway quick actions |
-| 📜 | **Menu Catalog** | Category filtering (Burgers, Combos, Beverages…) · Search · One-tap add-to-cart |
-| 🛒 | **Smart Cart** | Fluid quantity controls · Swipe gestures · Instant price updates |
-| 🏷️ | **Promo Engine** | Codes `OFF10` & `BK50` · BOGO support · Live discount updates |
-| 💳 | **Checkout Flow** | Address picker · Payment method · Full order summary |
-| 📦 | **Order History** | Persistent log with status & timestamps via `AsyncStorage` |
-| 🌙 | **Theme Engine** | Full dark mode — automatic switching across every screen |
-| 🔔 | **Live Badge** | Real-time cart count on bottom tab bar |
+|   | **Feature** | **What it does** |
+|--:|:---|:---|
+| 🏠 | Home | Dynamic greeting · Featured deals · Dine-in/Delivery/Takeaway |
+| 📜 | Menu | Filter by category · Search · Quick add-to-cart |
+| 🛒 | Smart Cart | Fluid qty controls · Swipe to remove · Instant updates |
+| 🏷️ | Promo Engine | Codes `OFF10` & `BK50` · BOGO support · Live discounts |
+| 💳 | Checkout | Address picker · Payment · Full summary |
+| 📦 | Order History | Order status & timestamps w/ AsyncStorage |
+| 🌙 | Theme Engine | Full dark mode — instant switching |
+| 🔔 | Live Badge | Real-time cart count on tab bar |
 
 </div>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
+---
 
 ## ⚡ Performance First
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🚀 | Optimized list rendering with `FlatList` — no wasted redraws |
-| 🧠 | `useMemo` for derived state — totals only recalculate on cart change |
-| 🎞️ | `react-native-reanimated` — UI thread animations, zero jank |
-| 🧊 | `react-native-screens` + `freeze` — inactive screens don't consume memory |
-| 📐 | Flexbox-first layouts — fluid across all screen sizes and notches |
+|   |  |
+|:--:|:--|
+| 🚀 | `FlatList` for efficient lists, zero wasted redraws |
+| 🧠 | `useMemo` — recalculates only on cart changes |
+| 🎞️ | `react-native-reanimated` — pure UI-thread animations |
+| 🧊 | `react-native-screens` + `freeze` inactive screens |
+| 📐 | Flexbox-first, responsive to all devices |
 
 </div>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
+---
 
 ## 🏗️ Tech Stack
 
@@ -224,397 +173,155 @@ Instant order confirmation
 
 <img src="https://skillicons.dev/icons?i=react,js,git,github,androidstudio,vscode&perline=6&theme=dark"/>
 
-<br/><br/>
-
 | Layer | Technology | Role |
-|:---:|:---|:---|
-| 📱 | **React Native CLI** | Cross-platform mobile framework |
-| 🧭 | **React Navigation** | Native Stack + Bottom Tabs routing |
-| 🧠 | **Context API** | `CartContext` · `ThemeContext` · `AddressContext` |
-| 💾 | **AsyncStorage** | Persist orders & preferences locally |
-| 🎞️ | **Reanimated + Gesture Handler** | High-perf animations & swipe gestures |
-| 🎨 | **Vector Icons (Ionicons)** | Consistent iconography throughout |
-| 🛡️ | **Safe Area Context** | Notch & status bar protection |
+|:--:|:--|:--|
+| 📱 | React Native CLI | Cross-platform app framework |
+| 🧭 | React Navigation | Stack navigator + Tabs |
+| 🧠 | Context API | `CartContext`, `ThemeContext`, `AddressContext` |
+| 💾 | AsyncStorage | Cart, orders persistence |
+| 🎞️ | Reanimated + Gesture Handler | High-perf gestures |
+| 🎨 | Vector Icons (Ionicons) | Icon sets throughout |
+| 🛡️ | Safe Area Context | Notch & status bar safe |
 
 </div>
 
-<br/><br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
+## 🗂️ Project Structure
 
-
-<br/><br/>
-
-## ✨ Project Structure
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0800,50:c44b00,100:ff8c00&height=3"/>
-
-<br/>
-
-> *Clean architecture crafted for scalability, smooth navigation & premium mobile experience.*
-
-<br/>
-
-</div>
+<details>
+<summary>Click for structured layout</summary>
 
 ```bash
 🍔 Burger King Clone
 │
-├── 📱 android
-│   └── Native Android setup
-│       └── Gradle · SDK · Build configs
+├── android          # Native Android
+├── ios              # iOS workspace & CocoaPods
+├── src
+│   ├── dhruvi/      # UI/UX, animations, navigation, main screens
+│   ├── archana/     # Profile, addresses, orders, theme
+│   ├── bimala/      # Cart, checkout, promo UI
+│   └── assets/      # Food, banners, icons, illustrations
 │
-├── 🍎 ios
-│   └── iOS workspace & CocoaPods
-│       └── Xcode configuration
-│
-├── 📂 src
-│
-│   ├── 🟠 dhruvi
-│   │   │
-│   │   ├── 🎞️ animations
-│   │   │   └── Smooth screen transitions
-│   │   │
-│   │   ├── 🧩 components
-│   │   │   ├── SearchBar
-│   │   │   ├── FeaturedBanner
-│   │   │   └── Shared reusable UI
-│   │   │
-│   │   ├── 🧭 navigation
-│   │   │   ├── BottomTabs
-│   │   │   └── MainStack routing
-│   │   │
-│   │   ├── 📱 screens
-│   │   │   ├── Home
-│   │   │   ├── Menu
-│   │   │   └── Favorites
-│   │   │
-│   │   └── ⚙️ utils
-│   │       ├── CartContext
-│   │       ├── ThemeContext
-│   │       └── Custom hooks
-│   │
-│   ├── 🟡 archana
-│   │   │
-│   │   ├── 👤 profile
-│   │   │   └── User account experience
-│   │   │
-│   │   ├── 📍 addresses
-│   │   │   └── Saved delivery locations
-│   │   │
-│   │   ├── 📦 orders
-│   │   │   └── Order history & tracking
-│   │   │
-│   │   └── 🎨 ui
-│   │       └── Theme tokens & helpers
-│   │
-│   ├── 🔴 bimala
-│   │   │
-│   │   ├── 🛒 cart
-│   │   │   └── Cart interactions & pricing
-│   │   │
-│   │   ├── 💳 checkout
-│   │   │   └── Payment & order flow
-│   │   │
-│   │   └── ✨ components
-│   │       └── Checkout UI elements
-│   │
-│   └── 🖼️ assets
-│       │
-│       ├── 🍔 food-images
-│       ├── 🎯 promotional-banners
-│       ├── 🧃 categories
-│       ├── 🌈 icons
-│       └── ✨ illustrations
-│
-├── 🧪 __tests__
-│   └── Unit & integration testing
-│
-├── ⚡ scripts
-│   └── Automation & maintenance tools
-│
-├── 🚀 App.js
-│   └── Root providers & navigation setup
-│
-├── 📦 package.json
-├── ⚙️ babel.config.js
-├── 🌐 metro.config.js
-└── 🔥 index.js
+├── __tests__/       # Unit & integration tests
+├── scripts/         # Automation & tools
+├── App.js           # Root providers & navigation
+├── package.json
+├── babel.config.js
+├── metro.config.js
+└── index.js
 ```
+</details>
 
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff8c00,50:c44b00,100:1a0800&height=3"/>
-
-<br/>
-
-✨ *Modular • Scalable • Clean • Developer Friendly*
-
-</div>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
+---
 
 ## 🚀 Getting Started
 
-<br/>
-
-### Prerequisites
-
+**Prerequisites:**
 ```
-✅  Node.js LTS
-✅  React Native CLI environment  →  https://reactnative.dev/docs/environment-setup
-✅  Android Studio  (for Android)
-✅  Xcode           (for iOS)
+✅ Node.js LTS
+✅ React Native CLI → https://reactnative.dev/docs/environment-setup
+✅ Android Studio (Android)
+✅ Xcode (iOS)
 ```
 
-<br/>
+**Installation:**
 
-### Installation
-
-```bash
-# 📥 Clone the repo
+```sh
+# Clone and enter
 git clone https://github.com/your-username/burger-king-clone.git
 cd burger-king-clone
 
-# 📦 Install dependencies
+# Install dependencies
 npm install
 
-# 🍎 iOS only — install CocoaPods
+# iOS: install CocoaPods
 cd ios && pod install && cd ..
 ```
 
-<br/>
-
-### Run the App
-
-```bash
-# ⚡ Start Metro bundler
+**Run the App:**
+```sh
+# Start Metro
 npx react-native start
 
-# 🤖 Android
+# Android
 npx react-native run-android
 
-# 🍎 iOS
+# iOS
 npx react-native run-ios
 ```
 
-<br/><br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
-
-## 🧠 State Management Architecture
+## 🧠 State Management
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
+| Context           | Manages                           | Persisted   |
+|-------------------|-----------------------------------|:-----------:|
+| 🛒 CartContext    | Cart, totals, discounts, orders   | ✅          |
+| 🌙 ThemeContext   | Light/Dark mode, toggle           | ❌          |
+| 📍 AddressContext | Saved addresses                   | ❌          |
 
+<br/><i>Minimal architecture. Maximum performance.</i>
 
-<br/>
+</div>
 
-> **Minimal architecture. Maximum performance.**
-
-<br/>
-
-| 🌙 ThemeContext | 📍 AddressContext | 🛒 CartContext |
-|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/light%20%2F%20dark-toggle-ff6a00?style=flat-square&labelColor=1a0800) | ![](https://img.shields.io/badge/home%20%7C%20work%20%7C%20other-saved-ff8c00?style=flat-square&labelColor=2d0e00) | ![](https://img.shields.io/badge/cart%20%7C%20orders%20%7C%20badge-live-ffb300?style=flat-square&labelColor=3d1200) |
-| `toggleTheme()` | Delivery addresses | `{ itemId: qty }` |
-| In-memory | In-memory | ✅ AsyncStorage |
-
-| Context | Manages | Persisted? |
-|:---:|:---|:---:|
-| 🛒 **CartContext** | Cart items, totals, discounts, orders, badge count | ✅ AsyncStorage |
-| 🌙 **ThemeContext** | Light / Dark mode state, `toggleTheme()` | ❌ In-memory |
-| 📍 **AddressContext** | Saved delivery addresses (Home · Work · Other) | ❌ In-memory |
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
+---
 
 ## 🌙 Theme Experience
 
 <div align="center">
 
+<p>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0800,50:c44b00,100:ff8c00&height=3"/>
+</p>
+
+**Color System:**
+  
+|        | Name                | Hex        | Usage                   |
+|:------:|---------------------|:----------:|:------------------------|
+| 🟤     | Deep Brown          | #5c2c06    | Main UI, header, cards  |
+| 🟠     | Flame Orange        | #ff6a00    | Buttons, highlights     |
+| 🟡     | Golden Mustard      | #ffb300    | Badges, CTAs            |
+| ⚫     | Dark Surface        | #1a0800    | Background, contrast    |
+| 🤍     | Warm White          | #fff8f0    | Layout, spacing         |
+| ✨     | Glow Accent         | #ff9b42    | Glow, outlines          |
 
 <br/>
-
-### ☀️ Light Mode
-*soft • minimal • airy*
-
-<br/>
-
-### 🌙 Dark Mode
-*cinematic • immersive • premium*
-
-<br/>
-
-> Designed to feel visually smooth across every interaction.
-
-<br/>
+<b>Light Mode:</b> *airy, vibrant, warm*  
+<b>Dark Mode:</b> *cinematic, premium, immersive*
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="180">
+---
 
-### 🟤 Deep Brown
-`#5c2c06`
-
-Primary surfaces  
-Headers & branding
-
-</td>
-
-<td align="center" width="180">
-
-### 🟠 Flame Orange
-`#ff6a00`
-
-Buttons · CTAs  
-Interactive highlights
-
-</td>
-
-<td align="center" width="180">
-
-### 🟡 Golden Mustard
-`#ffb300`
-
-Badges · Offers  
-Secondary accents
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="180">
-
-### ⚫ Dark Surface
-`#1a0800`
-
-Dark backgrounds  
-Depth & contrast
-
-</td>
-
-<td align="center" width="180">
-
-### 🤍 Warm White
-`#fff8f0`
-
-Clean layouts  
-Readable spacing
-
-</td>
-
-<td align="center" width="180">
-
-### ✨ Glow Accent
-`#ff9b42`
-
-Hover glow  
-Premium feel
-
-</td>
-</tr>
-</table>
-
-<br/>
+## 📦 Main Dependencies
 
 <div align="center">
 
-| ✨ Experience Layer | 💡 Implementation |
-|:---|:---|
-| 🎨 Layout System | Card-based spacing with soft visual hierarchy |
-| 📱 Responsiveness | Optimized using `SafeAreaView` & Flexbox |
-| 🧭 Navigation Feel | Smooth transitions with immersive flow |
-| 👆 Gestures | Swipe interactions powered by Gesture Handler |
-| 🌙 Adaptive UI | Seamless light & dark mode switching |
+| Package | For? |
+|---------|------|
+| <code>@react-navigation/native</code> | Core navigation |
+| <code>@react-navigation/native-stack</code> | Stack navigation flows |
+| <code>@react-navigation/bottom-tabs</code> | Main tab bar |
+| <code>react-native-reanimated</code> | Animations |
+| <code>react-native-gesture-handler</code> | Gestures |
+| <code>react-native-vector-icons</code> | Ionicons icons |
+| <code>@react-native-async-storage/async-storage</code> | Cart/order persistence |
+| <code>react-native-safe-area-context</code> | Safe area handling |
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff8c00,50:c44b00,100:1a0800&height=3"/>
-
 <br/>
 
-✨ *Crafted for comfort, readability & immersive mobile interaction.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44b00,50:ff6a00,100:ffb300&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff8f0&animation=fadeIn&fontAlignY=65&desc=Happy%20Coding%20🍔&descSize=14&descColor=ffd199&descAlignY=82"/>
+
+### 🍔 Crafted with React Native & ☕️ — for learning, scale & premium UX  
+
+⭐ *If you like it, star the repo!*
 
 </div>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
-
-## 📦 Dependencies
-
-<div align="center">
-
-| Package | Purpose |
-|:---|:---|
-| `@react-navigation/native` | Core navigation container |
-| `@react-navigation/native-stack` | Stack navigator for transactional flows |
-| `@react-navigation/bottom-tabs` | Primary tab bar |
-| `react-native-reanimated` | High-performance animations |
-| `react-native-gesture-handler` | Swipe & touch gestures |
-| `react-native-vector-icons` | Ionicons icon set |
-| `@react-native-async-storage/async-storage` | Persist cart & order history |
-| `react-native-safe-area-context` | Notch & status bar handling |
-
-</div>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:c44b00&height=3&section=header"/>
-
-
-<br/><br/>
-
-<div align="center">
-
-<br/>
-
-### 🍔 *Crafted with React Native & lots of coffee*
-
-<br/>
-
-*Built for learning, scalability, and premium mobile experiences.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/Built%20with%20❤️%20using-React%20Native-FF6B00?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0800"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-★%20Star%20this%20repo-FFB300?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0800"/>
-
-<br/><br/>
-
-⭐ *Star the repo if you enjoyed the project.*
-
-<br/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c44b00,50:ff6a00,100:ffb300&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff8f0&animation=fadeIn&fontAlignY=65&desc=Happy%20Coding%20🍔&descSize=14&descColor=ffd199&descAlignY=82"/>
