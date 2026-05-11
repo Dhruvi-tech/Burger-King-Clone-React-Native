@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0800,50:c44b00,100:ff8c00&height=220&section=header&text=🍔%20Burger%20King%20Clone&fontSize=55&fontAlignY=55&fontColor=fff8f0&animation=fadeIn&desc=A%20Premium%20React%20Native%20Food%20Ordering%20App&descSize=19&descAlignY=80&descColor=ffd199&stroke=ff6a00&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0800,50:c44b00,100:ff8c00&height=220&section=header&text=🍔%20Burger%20King%20&fontSize=55&fontAlignY=55&fontColor=fff8f0&animation=fadeIn&desc=A%20Premium%20React%20Native%20Food%20Ordering%20App&descSize=19&descAlignY=80&descColor=ffd199&stroke=ff6a00&strokeWidth=2"/>
 
 <p align="center" style="margin-top:-30px;">
   <img width="200" src="https://capsule-render.vercel.app/api?type=rect&color=0:c44b00,100:ff8c00&height=2"/>
