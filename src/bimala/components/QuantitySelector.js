@@ -1,3 +1,7 @@
+/**
+ * QuantitySelector renders an inline quantity control with plus/minus buttons.
+ * It is used in cart items to increase or decrease item quantities.
+ */
 import React, { useMemo } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { moderateScale } from '../utils/responsive';
@@ -8,6 +12,7 @@ export default function QuantitySelector({ quantity, onIncrease, onDecrease }) {
   const { theme } = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
 
+  // Show quantity controls and display the current quantity value.
   return (
     <View style={styles.container}>
       <TouchableOpacity activeOpacity={0.7} style={styles.btn} onPress={onDecrease}>

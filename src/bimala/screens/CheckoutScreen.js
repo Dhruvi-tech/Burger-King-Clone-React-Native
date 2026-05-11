@@ -1,3 +1,7 @@
+/**
+ * CheckoutScreen collects delivery and payment details and places an order.
+ * It validates user inputs and displays toast feedback before navigation.
+ */
 import React, { useContext, useMemo, useState } from 'react';
 import { View, Text, TextInput, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -62,11 +66,13 @@ export default function CheckoutScreen({ navigation }) {
   const [toastVisible, setToastVisible] = useState(false);
   const [toastMessage, setToastMessage] = useState('');
 
+  // Display a toast message for form validation and order feedback.
   const showToast = (message) => {
     setToastMessage(message);
     setToastVisible(true);
   };
 
+  // Validate user input and submit the order payload to the cart context.
   const submitOrder = () => {
     if (!validateRequired(name)) {
       showToast('Please enter your full name.');

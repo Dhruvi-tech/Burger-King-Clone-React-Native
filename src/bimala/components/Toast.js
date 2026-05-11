@@ -1,3 +1,7 @@
+/**
+ * Toast displays a temporary message overlay and automatically hides after a timeout.
+ * This component is used across promo input and checkout screens for inline feedback.
+ */
 import React, { useEffect, useMemo } from 'react';
 import { Text, StyleSheet, View } from 'react-native';
 import { useAppTheme } from '../../dhruvi/utils/ThemeContext';
@@ -6,6 +10,8 @@ export default function Toast({ message, visible, onHide }) {
   const { theme } = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
 
+  // Hide the toast automatically after a short display period.
+  // Automatically hide the toast after a short delay when it becomes visible.
   useEffect(() => {
     if (visible && onHide) {
       const timer = setTimeout(onHide, 2300);

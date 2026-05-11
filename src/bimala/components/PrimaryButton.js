@@ -1,3 +1,7 @@
+/**
+ * PrimaryButton is a reusable button component for the app.
+ * Supports solid, outline, and disabled states with theme-aware styles.
+ */
 import React, { useMemo } from 'react';
 import { TouchableOpacity, Text, StyleSheet } from 'react-native';
 import { useAppTheme } from '../../dhruvi/utils/ThemeContext';
@@ -7,6 +11,7 @@ export default function PrimaryButton({ title, onPress, style, disabled, outline
   const { theme } = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
 
+  // Choose the correct button appearance depending on outline and disabled props.
   return (
     <TouchableOpacity
       activeOpacity={0.7}

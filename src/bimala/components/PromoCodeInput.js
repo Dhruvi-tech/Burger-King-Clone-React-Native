@@ -1,3 +1,7 @@
+/**
+ * PromoCodeInput provides a text field and apply button for promo codes.
+ * It validates input locally and shows toast messages when the code is invalid.
+ */
 import React, { useMemo, useState } from 'react';
 import { View, TextInput, TouchableOpacity, Text, StyleSheet } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
@@ -12,6 +16,7 @@ export default function PromoCodeInput({ onApply }) {
   const [toastVisible, setToastVisible] = useState(false);
   const [toastMsg, setToastMsg] = useState('');
 
+  // Validate promo code input and notify the parent screen through onApply.
   const handleApply = () => {
     const normalized = code.trim().toUpperCase();
 
@@ -49,6 +54,7 @@ export default function PromoCodeInput({ onApply }) {
 
   return (
     <View style={styles.container}>
+      {/* Promo code input row with icon and apply button */}
       <View style={styles.inputWrap}>
         <Icon name="pricetag-outline" size={20} color={theme.colors.primary} style={styles.icon} />
         <TextInput

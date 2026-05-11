@@ -1,3 +1,7 @@
+/**
+ * EmptyCart renders a friendly empty-cart screen with a CTA button.
+ * It uses theme values for consistent spacing, typography, and colors.
+ */
 import React, { useMemo } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
@@ -8,6 +12,7 @@ export default function EmptyCart({ onBrowseMenu }) {
   const { theme } = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
 
+  // Render a friendly empty cart view with a CTA button to browse menu items.
   return (
     <View style={styles.container}>
       <View style={styles.iconCircle}>

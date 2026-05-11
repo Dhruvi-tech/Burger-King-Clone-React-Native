@@ -1,3 +1,7 @@
+/**
+ * CartScreen displays the current shopping cart with item controls.
+ * It handles promo codes, order totals, and navigation to checkout.
+ */
 import React, { useCallback, useContext, useMemo } from 'react';
 import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -25,8 +29,11 @@ export default function CartScreen({ navigation }) {
     applyOffer,
   } = useContext(CartContext);
 
+  // Convert cart object into an ordered array for list rendering and totals.
+  // Convert the cart object into an array for list rendering and calculations.
   const cartItems = useMemo(() => Object.values(cart), [cart]);
 
+  // Determine the payable subtotal either from context or by summing cart items.
   const total = useMemo(() => {
     if (typeof cartPayableSubTotal === 'number') return cartPayableSubTotal;
     return cartItems.reduce((sum, item) => sum + item.price * item.qty, 0);
@@ -53,6 +60,7 @@ export default function CartScreen({ navigation }) {
     return `Promo Code (${offerCode})`;
   }, [offerCode]);
 
+  // Render each cart item with swipe-to-delete and quantity controls.
   const renderItem = useCallback(
     ({ item }) => (
       <Swipeable
@@ -83,6 +91,7 @@ export default function CartScreen({ navigation }) {
     [decreaseQty, increaseQty, removeFromCart, styles]
   );
 
+  // Show the empty cart UI when no items are present in the cart.
   if (cartItems.length === 0) {
     return <EmptyCart onBrowseMenu={() => navigation.navigate('Menu')} />;
   }
