@@ -72,6 +72,7 @@ def enableProguardInReleaseBuilds = false
  * this variant is about 6MiB larger per architecture than default.
  */
 def jscFlavor = 'io.github.react-native-community:jsc-android:2026004.+'
+def shortNativeBuildDir = new File(System.getProperty("user.home"), ".rn-cxx/${rootProject.name}/${project.name}")
 
 android {
     ndkVersion rootProject.ext.ndkVersion
@@ -79,12 +80,30 @@ android {
     compileSdk rootProject.ext.compileSdkVersion
 
     namespace "com.burgerking"
+
+    // Explicitly enable Hermes for react-native-worklets
+    hermesEnabled = true
+
+    externalNativeBuild {
+        cmake {
+            buildStagingDirectory shortNativeBuildDir
+        }
+    }
+
     defaultConfig {
         applicationId "com.burgerking"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+
+        // Fix for react-native-reanimated CMake RC compiler issue
+        externalNativeBuild {
+            cmake {
+                cppFlags "-std=c++17"
+                arguments "-DANDROID_STL=c++_shared"
+            }
+        }
     }
     signingConfigs {
         debug {
@@ -116,5 +135,13 @@ dependencies {
         implementation("com.facebook.react:hermes-android")
     } else {
         implementation jscFlavor
+    }
+}
+
+tasks.matching { task ->
+    task.name.startsWith("externalNativeBuildClean")
+}.configureEach { task ->
+    task.doFirst {
+        delete shortNativeBuildDir
     }
 }

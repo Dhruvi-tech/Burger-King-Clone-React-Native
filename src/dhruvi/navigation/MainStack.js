@@ -2,10 +2,11 @@ import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import BottomTabs from './BottomTabs';
-import CustomerCare from '../screens/CustomerCare';
-import Orders from '../screens/Orders';
-import Addresses from '../screens/Addresses';
-import CheckoutScreen from '../screens/CheckoutScreen';
+import CustomerCare from '../../archana/screens/CustomerCare';
+import Orders from '../../archana/screens/Orders';
+import Addresses from '../../archana/screens/Addresses';
+import CheckoutScreen from '../../bimala/screens/CheckoutScreen';
+import PaymentMethods from '../../archana/screens/PaymentMethods';
 
 const Stack = createNativeStackNavigator();
 
@@ -22,6 +23,7 @@ export default function MainStack() {
       <Stack.Screen name="Orders" component={Orders} />
       <Stack.Screen name="Addresses" component={Addresses} />
       <Stack.Screen name="Checkout" component={CheckoutScreen} />
+      <Stack.Screen name="PaymentMethods" component={PaymentMethods} />
     </Stack.Navigator>
   );
 }

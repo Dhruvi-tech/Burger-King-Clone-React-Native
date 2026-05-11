@@ -1,0 +1,26 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false,
+    "java.autobuild.enabled": false,
+    "java.import.exclusions": [
+        "**/node_modules/**",
+        "**/.git/**",
+        "**/build/**",
+        "**/.gradle/**",
+        "**/android/**",
+        "**/ios/**"
+    ],
+    "java.project.importOnFirstTimeStartup": "disabled",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "files.exclude": {
+        "**/node_modules/**/*.gradle": true,
+        "**/node_modules/**/*.java": true
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": true,
+        "**/.gradle/**": true,
+        "**/build/**": true
+    }
+}
